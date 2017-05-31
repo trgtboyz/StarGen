@@ -1,0 +1,6 @@
+        g.draw3DRect(10, 10, 150, 100, false);
+        g.draw3DRect(20, 20, 150, 100, true);
+        g.drawLine(10, 10, 20, 20);
+        g.drawLine(160, 10, 170, 20);
+        g.drawLine(10, 110, 20, 120);
+        g.drawLine(160, 110, 170, 120);
